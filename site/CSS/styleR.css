@@ -1,0 +1,50 @@
+/* Extra small devices (portrait phones, less than 576px)
+   No media query since this is the default in Bootstrap */
+   
+
+   h1{
+	font-weight:bond;
+	  
+letter-spacing:3cqmax;/*расстояние между буквами*/
+text-align:center;
+   }
+  h2{	
+	  font-weight:bond;
+	   border:none;
+	   margin:5px;	
+	  text-align:left;
+   }
+    .container{
+	background-color:#47E2FF;
+	 border:none;
+	 
+}
+p{
+	text-indent: 20px; 
+}
+.F{
+	padding: 0 25px;
+}
+.L{
+	margin: 2px 9px;
+}
+.R{
+	margin:0 22px;	
+}
+.container{
+	background-color:#FFFFFF;
+	 border:none;
+	 
+}
+p{
+	text-indent: 20px; 
+}
+.F{
+	padding: 0 25px;
+}
+.L{
+	margin: 2px 9px;
+}
+.R{
+	margin:0 22px;	
+}
