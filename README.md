@@ -6,14 +6,14 @@
 Сайт проверен через Validator W3C (ошибки отсутствуют).
 
 ### Cодержание:
-1. [Главная](./index.html)
+1. [Главная](.pages/index.html)
 
 
-2. [О компании](./about.html)
+2. [О компании](.pages/about.html)
 
  
 
-3. [Контакты](./contacts.html)
+3. [Контакты](.pages/contacts.html)
 
 <hr>
 ***Skillfactory*** -  oнлайн-школа IT-профессий. Онлайн-курсы по Data Science, аналитике, программированию и менеджменту © 2023
