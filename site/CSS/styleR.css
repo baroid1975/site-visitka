@@ -1,11 +1,11 @@
 /* Extra small devices (portrait phones, less than 576px)
-   No media query since this is the default in Bootstrap */
+   No media query since this is the default in Bootstrap 
    
-
+ Примеры кодов в CSS
    h1{
 	font-weight:bond;
 	  
-letter-spacing:3cqmax;/*расстояние между буквами*/
+letter-spacing:3cqmax;/*расстояние между буквами
 text-align:center;
    }
   h2{	
@@ -48,3 +48,4 @@ p{
 .R{
 	margin:0 22px;	
 }
+*/
