@@ -9,7 +9,7 @@
 1. [Главная](site/index.html)
 
 
-2. [О компании](pages/about.html)
+2. [О компании](../about.html)
 
  
 
