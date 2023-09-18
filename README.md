@@ -6,8 +6,7 @@
 1. [Главная](site/index.html)
 
 
-2. [О компании](../about.html)
-
+2. [О компании](site/pages/about.html)
  
 
 3. [Контакты](site/pages/contacts.html)
